@@ -1,0 +1,296 @@
+/*MENU DA PAGINA*/
+.menu-top{
+	background-color: #0071C5; 
+}
+/*NOME DO PROJETO na barra titulo do site*/
+.titulo-cia{
+	float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+    color: white;
+    position: relative;
+    left: 15%;
+}
+.navbar-default {
+    background-color: none;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: none;
+}
+@media (min-width: 768px){
+.navbar-header {
+    float: left;
+    position: relative;
+    left: 24%;
+}
+}
+/*CORPO DA PAGINA*/
+body{
+	background-color: rgba(204, 202, 202, 0.34);
+    width: auto;
+    height: 630px;
+}
+/*PAINEL DAS FUNÇOES (LAMPDA,CORTINA,TEMPERATURA....)*/
+.panel-primary{
+    background: transparent;
+    border: none;
+}
+.img-thumbnaill{
+    background: transparent;
+    border: none;
+    position: relative;
+    left: 0%;
+    top: 0.8em;
+    width: 50%;
+    z-index: 1;
+    margin: 5%;
+    padding: 0;
+}
+.button_function{
+    float: left;
+    width: 25%;
+    position: relative;
+    background: #0071C5;
+    margin: 0.3%;
+    left: 11%;
+    top: 0;
+    text-align: center;
+    display: inline-block;
+    border-radius: 0.5em;
+}
+@media screen and (min-width: 768px){
+.container .jumbotron, .container-fluid .jumbotron {
+    padding:0;
+ }
+}
+.titulo_funcao{
+    margin: 0;
+    color: white;
+    font-size: inherit;
+    position: relative;
+    left: 0;
+    font-weight: inherit;
+    top: 0em;
+    display: block;
+    padding: 6% 0% 5% 0%;
+    text-align: center;
+    line-height: 1.5;
+}
+/*CAMPO DAS FUNÇOES LAMPADAS*/
+.campo_funcionalidade{ 
+    position: relative;
+    margin: 1%;
+    padding: 0;
+    width: 29%;
+    left: 3.5%;
+    border-radius: 1em;
+    float: left;
+    border: 1px solid #337AB7;
+    top: -0.5em;
+}
+.campo_funcionalidade img{
+    width: 60%;
+    position: relative;
+    left: 14%;
+    padding: 0;
+    margin: 4%;
+    top: -1em;
+    z-index: 1;
+}
+.btn-lg{
+    width: 70%;
+    margin: 0;
+    padding: 5%;
+    font-size: inherit;
+    border-radius: 4em;
+    position: relative;
+    left: 14%;
+    border: 2px solid #337AB7;
+}
+.btn-lg_cortina{
+    width: 70%;
+    margin: 0;
+    padding: 5%;
+    font-size: inherit;
+    border-radius: 4em;
+    position: relative;
+    left: 19%;
+    border: 2px solid #337AB7;
+}
+.label-button{
+    display: block;
+    padding: 0.1em;
+    font-size: inherit;
+    line-height: 3;
+    color: #000000;
+    white-space: nowrap;
+    border-radius: 0;
+    margin: 0px;
+    position: relative;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+}
+figcaption{
+    margin: 0;
+    padding: 0%;
+    width: 100%;
+    border-radius: 1rem;
+    position: relative;
+    top: -1em;
+}
+.modal-content{
+    width: 90%;
+    position: absolute;
+    left: 0%;
+}
+.modal-footer {
+    padding: 15px;
+    text-align: right;
+    border-top: 1px solid #e5e5e5;
+    width: 100%;
+    position: relative;
+    left: 0em;
+    display: inline-block;
+}
+.modal-title {
+    margin: 0;
+    line-height: 1.42857143;
+    text-align: center;
+}
+/*PARTE DO CAMPO DO BOTAO DE CONFIGURAÇOES NA BARRA DE TITULO DO SITE*/
+.navbar-nav{
+    height: 3em;
+    position: relative;
+    top: 7pt;
+    border-radius: 5em;
+    float: right;
+    right: 2%;
+}
+.nav>li{
+	position: relative;
+    display: block;
+    left: 10%;
+    font-size: 1pc;
+}
+/*botoes da lampda geral*/
+.btn_desligar{
+    width: 1%;
+    padding: 10%;
+    margin: 0;
+    font-size: inherit;
+}
+.btn_ligar{
+    border: 1px solid rgb(76, 174, 76);
+    background: rgb(92, 184, 92);
+    width: 1%;
+    padding: 10%;
+    margin: 0;
+    float: none;
+    font-size: inherit;
+}
+.campo_func_geral{
+    width: 14%;
+    margin: 0;
+    padding: 0;
+    float: right;
+    text-align: center;
+    position: relative;
+    left: -5%;
+}
+.campo_func_geral span{
+    position: relative;
+    right: 13%;
+    padding: 9%;
+}
+/**************************************/
+/*CONFIGURAÇAO DA TV, LOCAL DA IMAGEM*/
+.campo_funcionalidadeTV{
+    background-color: #CCC;
+    width: 80%;
+    position: relative;
+    float: none;
+    text-align: center;
+    left: 10.5%;
+}
+.espaco-tv-img{
+    width: 70%;
+    margin: 2%;
+    padding: 3%;
+}
+/*CONFIGURAÇAO DA TEMPERATURA, LOCAL DA IMAGEM*/
+.campo_funcionalidadeTEMP{
+    background-color: #CDCFD4;
+    width: 90%;
+    position: relative;
+    float: none;
+    text-align: center;
+    top: 2em;
+    left: 4.5%;
+    height: 26em;
+    margin: 0;
+}
+.campo_funcionalidadeTEMP figure{
+
+}
+.campo_funcionalidadeTEMP img{
+    height: 20em;
+    width: 60%;
+    position: relative;
+    top: 1em;
+}
+.campo_funcionalidadeTEMP input{
+    width: 100%;
+    position: relative;
+    top: 0em;
+    height: 6em;
+    background-color: #ccc;
+    border: none;
+}
+.temp_img{
+    width: 90%;
+    position: relative;
+    background-color: #1DCAF2;
+    height: 5em;
+    border-bottom: 2px solid #CCC;
+    border-radius: 4em;
+    margin: 4%;
+    box-shadow: 0em 0.5em #CCC;
+    left: 1%;
+}
+.tmper{
+    position: relative;
+    left: 57%;
+    font-size: 3pc;
+}
+.temp_img img{
+    width: 10%;
+    height: 40%;
+    position: relative;
+    top: -17%;
+    padding: 0px 3% 0px 0px;
+    left: 39%;
+    border-right: 1px solid white;
+}
+/*field curtain functions*/
+.curtain_field{
+  width: 100%;
+  border-radius: 1em;
+}
+/*field curtain function*/
+.curtain_space img{
+    position: relative;
+    left: 21%;
+    width: 55%;
+    padding: 1%;
+    margin: 2%;
+}
+/**/
+.curtain_space figcaption{
+    width: 60%;
+    position: relative;
+    left: 13%;
+    margin: 5%;
+}

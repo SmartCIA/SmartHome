@@ -1,0 +1,1548 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "icon.png": {
+        "previousModTime": 1460045474000,
+        "modified": 1460045474000,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1461701970073,
+        "modified": 1461701970073,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1461182646000,
+        "modified": 1461182646000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1460045474000,
+        "modified": 1460045474000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "SmartHome.xdk": {
+        "previousModTime": 1460045474000,
+        "modified": 1460045474000,
+        "seen": true,
+        "name": "SmartHome.xdk"
+      },
+      "SmartHome.xdke": {
+        "previousModTime": 1461700740865,
+        "modified": 1461700740865,
+        "seen": true,
+        "name": "SmartHome.xdke"
+      },
+      "public/index.html": {
+        "previousModTime": 1461688467412,
+        "modified": 1461688467412,
+        "seen": true,
+        "name": "public/index.html"
+      },
+      "public/img/ar_icone.png": {
+        "previousModTime": 1458004674000,
+        "modified": 1458004674000,
+        "seen": true,
+        "name": "public/img/ar_icone.png"
+      },
+      "public/img/celsius.png": {
+        "previousModTime": 1458004672000,
+        "modified": 1458004672000,
+        "seen": true,
+        "name": "public/img/celsius.png"
+      },
+      "public/img/cortinaaberta.png": {
+        "previousModTime": 1458004666000,
+        "modified": 1458004666000,
+        "seen": true,
+        "name": "public/img/cortinaaberta.png"
+      },
+      "public/img/cortina_fechada.png": {
+        "previousModTime": 1460043864000,
+        "modified": 1460043864000,
+        "seen": true,
+        "name": "public/img/cortina_fechada.png"
+      },
+      "public/img/estante.png": {
+        "previousModTime": 1458004674000,
+        "modified": 1458004674000,
+        "seen": true,
+        "name": "public/img/estante.png"
+      },
+      "public/img/frioicone.png": {
+        "previousModTime": 1458004674000,
+        "modified": 1458004674000,
+        "seen": true,
+        "name": "public/img/frioicone.png"
+      },
+      "public/img/leddesligada.png": {
+        "previousModTime": 1459239626000,
+        "modified": 1459239626000,
+        "seen": true,
+        "name": "public/img/leddesligada.png"
+      },
+      "public/img/ledicone.png": {
+        "previousModTime": 1458004666000,
+        "modified": 1458004666000,
+        "seen": true,
+        "name": "public/img/ledicone.png"
+      },
+      "public/img/ledligada.png": {
+        "previousModTime": 1459239626000,
+        "modified": 1459239626000,
+        "seen": true,
+        "name": "public/img/ledligada.png"
+      },
+      "public/img/logo.png": {
+        "previousModTime": 1458004666000,
+        "modified": 1458004666000,
+        "seen": true,
+        "name": "public/img/logo.png"
+      },
+      "public/img/quente.png": {
+        "previousModTime": 1458004666000,
+        "modified": 1458004666000,
+        "seen": true,
+        "name": "public/img/quente.png"
+      },
+      "public/img/relatorio.png": {
+        "previousModTime": 1458004666000,
+        "modified": 1458004666000,
+        "seen": true,
+        "name": "public/img/relatorio.png"
+      },
+      "public/img/tempicone.png": {
+        "previousModTime": 1458004666000,
+        "modified": 1458004666000,
+        "seen": true,
+        "name": "public/img/tempicone.png"
+      },
+      "public/img/tvdesligada.png": {
+        "previousModTime": 1458004674000,
+        "modified": 1458004674000,
+        "seen": true,
+        "name": "public/img/tvdesligada.png"
+      },
+      "public/img/tvicone.png": {
+        "previousModTime": 1458004666000,
+        "modified": 1458004666000,
+        "seen": true,
+        "name": "public/img/tvicone.png"
+      },
+      "public/img/tvligada.png": {
+        "previousModTime": 1458004674000,
+        "modified": 1458004674000,
+        "seen": true,
+        "name": "public/img/tvligada.png"
+      },
+      "public/javascripts/app.js": {
+        "previousModTime": 1461167040000,
+        "modified": 1461167040000,
+        "seen": true,
+        "name": "public/javascripts/app.js"
+      },
+      "public/javascripts/service.js": {
+        "previousModTime": 1461161778000,
+        "modified": 1461161778000,
+        "seen": true,
+        "name": "public/javascripts/service.js"
+      },
+      "public/lib/._angular.min.js": {
+        "previousModTime": 1456746336000,
+        "modified": 1456746336000,
+        "seen": true,
+        "name": "public/lib/._angular.min.js"
+      },
+      "public/lib/angular.min.js": {
+        "previousModTime": 1416523926000,
+        "modified": 1416523926000,
+        "seen": true,
+        "name": "public/lib/angular.min.js"
+      },
+      "public/lib/._angular.min.js.map": {
+        "previousModTime": 1456746336000,
+        "modified": 1456746336000,
+        "seen": true,
+        "name": "public/lib/._angular.min.js.map"
+      },
+      "public/lib/angular.min.js.map": {
+        "previousModTime": 1417204880000,
+        "modified": 1417204880000,
+        "seen": true,
+        "name": "public/lib/angular.min.js.map"
+      },
+      "public/lib/._angular-route.min.js": {
+        "previousModTime": 1456746336000,
+        "modified": 1456746336000,
+        "seen": true,
+        "name": "public/lib/._angular-route.min.js"
+      },
+      "public/lib/angular-route.min.js": {
+        "previousModTime": 1417200714000,
+        "modified": 1417200714000,
+        "seen": true,
+        "name": "public/lib/angular-route.min.js"
+      },
+      "public/lib/._ui-bootstrap-tpls-0.12.0.min.js": {
+        "previousModTime": 1456746336000,
+        "modified": 1456746336000,
+        "seen": true,
+        "name": "public/lib/._ui-bootstrap-tpls-0.12.0.min.js"
+      },
+      "public/lib/ui-bootstrap-tpls-0.12.0.min.js": {
+        "previousModTime": 1417206788000,
+        "modified": 1417206788000,
+        "seen": true,
+        "name": "public/lib/ui-bootstrap-tpls-0.12.0.min.js"
+      },
+      "public/STYLE/base.css": {
+        "previousModTime": 1459790854000,
+        "modified": 1459790854000,
+        "seen": true,
+        "name": "public/STYLE/base.css"
+      },
+      "public/STYLE/cia.css": {
+        "previousModTime": 1461167601953,
+        "modified": 1461167601953,
+        "seen": true,
+        "name": "public/STYLE/cia.css"
+      },
+      "public/STYLE/cia.js": {
+        "previousModTime": 1461097017239,
+        "modified": 1461097017239,
+        "seen": true,
+        "name": "public/STYLE/cia.js"
+      },
+      "public/STYLE/socketio.js": {
+        "previousModTime": 1460579189087,
+        "modified": 1460579189087,
+        "seen": true,
+        "name": "public/STYLE/socketio.js"
+      },
+      "public/STYLE/style.css": {
+        "previousModTime": 1459785528000,
+        "modified": 1459785528000,
+        "seen": true,
+        "name": "public/STYLE/style.css"
+      },
+      "public/STYLE/dist/css/bootstrap.css": {
+        "previousModTime": 1458004718000,
+        "modified": 1458004718000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/bootstrap.css"
+      },
+      "public/STYLE/dist/css/bootstrap.css.map": {
+        "previousModTime": 1458004712000,
+        "modified": 1458004712000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/bootstrap.css.map"
+      },
+      "public/STYLE/dist/css/bootstrap.min.css": {
+        "previousModTime": 1458004706000,
+        "modified": 1458004706000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/bootstrap.min.css"
+      },
+      "public/STYLE/dist/css/bootstrap.min.css.map": {
+        "previousModTime": 1458004718000,
+        "modified": 1458004718000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/bootstrap.min.css.map"
+      },
+      "public/STYLE/dist/css/bootstrap-theme.css": {
+        "previousModTime": 1458004718000,
+        "modified": 1458004718000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/bootstrap-theme.css"
+      },
+      "public/STYLE/dist/css/bootstrap-theme.css.map": {
+        "previousModTime": 1458004720000,
+        "modified": 1458004720000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/bootstrap-theme.css.map"
+      },
+      "public/STYLE/dist/css/bootstrap-theme.min.css": {
+        "previousModTime": 1458004718000,
+        "modified": 1458004718000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/bootstrap-theme.min.css"
+      },
+      "public/STYLE/dist/css/bootstrap-theme.min.css.map": {
+        "previousModTime": 1458004718000,
+        "modified": 1458004718000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/bootstrap-theme.min.css.map"
+      },
+      "public/STYLE/dist/css/less/alerts.less": {
+        "previousModTime": 1458004740000,
+        "modified": 1458004740000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/alerts.less"
+      },
+      "public/STYLE/dist/css/less/badges.less": {
+        "previousModTime": 1458004732000,
+        "modified": 1458004732000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/badges.less"
+      },
+      "public/STYLE/dist/css/less/bootstrap.less": {
+        "previousModTime": 1458004740000,
+        "modified": 1458004740000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/bootstrap.less"
+      },
+      "public/STYLE/dist/css/less/breadcrumbs.less": {
+        "previousModTime": 1458004732000,
+        "modified": 1458004732000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/breadcrumbs.less"
+      },
+      "public/STYLE/dist/css/less/button-groups.less": {
+        "previousModTime": 1458004740000,
+        "modified": 1458004740000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/button-groups.less"
+      },
+      "public/STYLE/dist/css/less/buttons.less": {
+        "previousModTime": 1458004732000,
+        "modified": 1458004732000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/buttons.less"
+      },
+      "public/STYLE/dist/css/less/carousel.less": {
+        "previousModTime": 1458004744000,
+        "modified": 1458004744000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/carousel.less"
+      },
+      "public/STYLE/dist/css/less/close.less": {
+        "previousModTime": 1458004732000,
+        "modified": 1458004732000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/close.less"
+      },
+      "public/STYLE/dist/css/less/code.less": {
+        "previousModTime": 1458004732000,
+        "modified": 1458004732000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/code.less"
+      },
+      "public/STYLE/dist/css/less/component-animations.less": {
+        "previousModTime": 1458004740000,
+        "modified": 1458004740000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/component-animations.less"
+      },
+      "public/STYLE/dist/css/less/_csscomb.json": {
+        "previousModTime": 1458004744000,
+        "modified": 1458004744000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/_csscomb.json"
+      },
+      "public/STYLE/dist/css/less/_csslintrc": {
+        "previousModTime": 1458004744000,
+        "modified": 1458004744000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/_csslintrc"
+      },
+      "public/STYLE/dist/css/less/dropdowns.less": {
+        "previousModTime": 1458004732000,
+        "modified": 1458004732000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/dropdowns.less"
+      },
+      "public/STYLE/dist/css/less/forms.less": {
+        "previousModTime": 1458004736000,
+        "modified": 1458004736000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/forms.less"
+      },
+      "public/STYLE/dist/css/less/glyphicons.less": {
+        "previousModTime": 1458004740000,
+        "modified": 1458004740000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/glyphicons.less"
+      },
+      "public/STYLE/dist/css/less/grid.less": {
+        "previousModTime": 1458004726000,
+        "modified": 1458004726000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/grid.less"
+      },
+      "public/STYLE/dist/css/less/input-groups.less": {
+        "previousModTime": 1458004736000,
+        "modified": 1458004736000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/input-groups.less"
+      },
+      "public/STYLE/dist/css/less/jumbotron.less": {
+        "previousModTime": 1458004736000,
+        "modified": 1458004736000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/jumbotron.less"
+      },
+      "public/STYLE/dist/css/less/labels.less": {
+        "previousModTime": 1458004736000,
+        "modified": 1458004736000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/labels.less"
+      },
+      "public/STYLE/dist/css/less/list-group.less": {
+        "previousModTime": 1458004736000,
+        "modified": 1458004736000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/list-group.less"
+      },
+      "public/STYLE/dist/css/less/media.less": {
+        "previousModTime": 1458004736000,
+        "modified": 1458004736000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/media.less"
+      },
+      "public/STYLE/dist/css/less/mixins.less": {
+        "previousModTime": 1458004738000,
+        "modified": 1458004738000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins.less"
+      },
+      "public/STYLE/dist/css/less/modals.less": {
+        "previousModTime": 1458004732000,
+        "modified": 1458004732000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/modals.less"
+      },
+      "public/STYLE/dist/css/less/navbar.less": {
+        "previousModTime": 1458004726000,
+        "modified": 1458004726000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/navbar.less"
+      },
+      "public/STYLE/dist/css/less/navs.less": {
+        "previousModTime": 1458004732000,
+        "modified": 1458004732000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/navs.less"
+      },
+      "public/STYLE/dist/css/less/normalize.less": {
+        "previousModTime": 1458004726000,
+        "modified": 1458004726000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/normalize.less"
+      },
+      "public/STYLE/dist/css/less/pager.less": {
+        "previousModTime": 1458004728000,
+        "modified": 1458004728000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/pager.less"
+      },
+      "public/STYLE/dist/css/less/pagination.less": {
+        "previousModTime": 1458004740000,
+        "modified": 1458004740000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/pagination.less"
+      },
+      "public/STYLE/dist/css/less/panels.less": {
+        "previousModTime": 1458004726000,
+        "modified": 1458004726000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/panels.less"
+      },
+      "public/STYLE/dist/css/less/popovers.less": {
+        "previousModTime": 1458004740000,
+        "modified": 1458004740000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/popovers.less"
+      },
+      "public/STYLE/dist/css/less/print.less": {
+        "previousModTime": 1458004736000,
+        "modified": 1458004736000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/print.less"
+      },
+      "public/STYLE/dist/css/less/progress-bars.less": {
+        "previousModTime": 1458004736000,
+        "modified": 1458004736000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/progress-bars.less"
+      },
+      "public/STYLE/dist/css/less/responsive-embed.less": {
+        "previousModTime": 1458004728000,
+        "modified": 1458004728000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/responsive-embed.less"
+      },
+      "public/STYLE/dist/css/less/responsive-utilities.less": {
+        "previousModTime": 1458004732000,
+        "modified": 1458004732000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/responsive-utilities.less"
+      },
+      "public/STYLE/dist/css/less/scaffolding.less": {
+        "previousModTime": 1458004744000,
+        "modified": 1458004744000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/scaffolding.less"
+      },
+      "public/STYLE/dist/css/less/tables.less": {
+        "previousModTime": 1458004744000,
+        "modified": 1458004744000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/tables.less"
+      },
+      "public/STYLE/dist/css/less/theme.less": {
+        "previousModTime": 1458004740000,
+        "modified": 1458004740000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/theme.less"
+      },
+      "public/STYLE/dist/css/less/thumbnails.less": {
+        "previousModTime": 1458004736000,
+        "modified": 1458004736000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/thumbnails.less"
+      },
+      "public/STYLE/dist/css/less/tooltip.less": {
+        "previousModTime": 1458004744000,
+        "modified": 1458004744000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/tooltip.less"
+      },
+      "public/STYLE/dist/css/less/type.less": {
+        "previousModTime": 1458004726000,
+        "modified": 1458004726000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/type.less"
+      },
+      "public/STYLE/dist/css/less/utilities.less": {
+        "previousModTime": 1458004740000,
+        "modified": 1458004740000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/utilities.less"
+      },
+      "public/STYLE/dist/css/less/variables.less": {
+        "previousModTime": 1458004732000,
+        "modified": 1458004732000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/variables.less"
+      },
+      "public/STYLE/dist/css/less/wells.less": {
+        "previousModTime": 1458004736000,
+        "modified": 1458004736000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/wells.less"
+      },
+      "public/STYLE/dist/css/less/mixins/alerts.less": {
+        "previousModTime": 1458004754000,
+        "modified": 1458004754000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/alerts.less"
+      },
+      "public/STYLE/dist/css/less/mixins/background-variant.less": {
+        "previousModTime": 1458004752000,
+        "modified": 1458004752000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/background-variant.less"
+      },
+      "public/STYLE/dist/css/less/mixins/border-radius.less": {
+        "previousModTime": 1458004754000,
+        "modified": 1458004754000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/border-radius.less"
+      },
+      "public/STYLE/dist/css/less/mixins/buttons.less": {
+        "previousModTime": 1458004748000,
+        "modified": 1458004748000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/buttons.less"
+      },
+      "public/STYLE/dist/css/less/mixins/center-block.less": {
+        "previousModTime": 1458004750000,
+        "modified": 1458004750000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/center-block.less"
+      },
+      "public/STYLE/dist/css/less/mixins/clearfix.less": {
+        "previousModTime": 1458004744000,
+        "modified": 1458004744000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/clearfix.less"
+      },
+      "public/STYLE/dist/css/less/mixins/forms.less": {
+        "previousModTime": 1458004750000,
+        "modified": 1458004750000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/forms.less"
+      },
+      "public/STYLE/dist/css/less/mixins/gradients.less": {
+        "previousModTime": 1458004748000,
+        "modified": 1458004748000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/gradients.less"
+      },
+      "public/STYLE/dist/css/less/mixins/grid-framework.less": {
+        "previousModTime": 1458004744000,
+        "modified": 1458004744000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/grid-framework.less"
+      },
+      "public/STYLE/dist/css/less/mixins/grid.less": {
+        "previousModTime": 1458004748000,
+        "modified": 1458004748000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/grid.less"
+      },
+      "public/STYLE/dist/css/less/mixins/hide-text.less": {
+        "previousModTime": 1458004748000,
+        "modified": 1458004748000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/hide-text.less"
+      },
+      "public/STYLE/dist/css/less/mixins/image.less": {
+        "previousModTime": 1458004748000,
+        "modified": 1458004748000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/image.less"
+      },
+      "public/STYLE/dist/css/less/mixins/labels.less": {
+        "previousModTime": 1458004750000,
+        "modified": 1458004750000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/labels.less"
+      },
+      "public/STYLE/dist/css/less/mixins/list-group.less": {
+        "previousModTime": 1458004750000,
+        "modified": 1458004750000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/list-group.less"
+      },
+      "public/STYLE/dist/css/less/mixins/nav-divider.less": {
+        "previousModTime": 1458004750000,
+        "modified": 1458004750000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/nav-divider.less"
+      },
+      "public/STYLE/dist/css/less/mixins/nav-vertical-align.less": {
+        "previousModTime": 1458004754000,
+        "modified": 1458004754000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/nav-vertical-align.less"
+      },
+      "public/STYLE/dist/css/less/mixins/opacity.less": {
+        "previousModTime": 1458004754000,
+        "modified": 1458004754000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/opacity.less"
+      },
+      "public/STYLE/dist/css/less/mixins/pagination.less": {
+        "previousModTime": 1458004754000,
+        "modified": 1458004754000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/pagination.less"
+      },
+      "public/STYLE/dist/css/less/mixins/panels.less": {
+        "previousModTime": 1458004744000,
+        "modified": 1458004744000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/panels.less"
+      },
+      "public/STYLE/dist/css/less/mixins/progress-bar.less": {
+        "previousModTime": 1458004750000,
+        "modified": 1458004750000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/progress-bar.less"
+      },
+      "public/STYLE/dist/css/less/mixins/reset-filter.less": {
+        "previousModTime": 1458004750000,
+        "modified": 1458004750000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/reset-filter.less"
+      },
+      "public/STYLE/dist/css/less/mixins/reset-text.less": {
+        "previousModTime": 1458004750000,
+        "modified": 1458004750000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/reset-text.less"
+      },
+      "public/STYLE/dist/css/less/mixins/resize.less": {
+        "previousModTime": 1458004748000,
+        "modified": 1458004748000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/resize.less"
+      },
+      "public/STYLE/dist/css/less/mixins/responsive-visibility.less": {
+        "previousModTime": 1458004744000,
+        "modified": 1458004744000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/responsive-visibility.less"
+      },
+      "public/STYLE/dist/css/less/mixins/size.less": {
+        "previousModTime": 1458004750000,
+        "modified": 1458004750000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/size.less"
+      },
+      "public/STYLE/dist/css/less/mixins/tab-focus.less": {
+        "previousModTime": 1458004748000,
+        "modified": 1458004748000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/tab-focus.less"
+      },
+      "public/STYLE/dist/css/less/mixins/table-row.less": {
+        "previousModTime": 1458004750000,
+        "modified": 1458004750000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/table-row.less"
+      },
+      "public/STYLE/dist/css/less/mixins/text-emphasis.less": {
+        "previousModTime": 1458004748000,
+        "modified": 1458004748000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/text-emphasis.less"
+      },
+      "public/STYLE/dist/css/less/mixins/text-overflow.less": {
+        "previousModTime": 1458004748000,
+        "modified": 1458004748000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/text-overflow.less"
+      },
+      "public/STYLE/dist/css/less/mixins/vendor-prefixes.less": {
+        "previousModTime": 1458004748000,
+        "modified": 1458004748000,
+        "seen": true,
+        "name": "public/STYLE/dist/css/less/mixins/vendor-prefixes.less"
+      },
+      "public/STYLE/dist/fonts/glyphicons-halflings-regular.eot": {
+        "previousModTime": 1458004694000,
+        "modified": 1458004694000,
+        "seen": true,
+        "name": "public/STYLE/dist/fonts/glyphicons-halflings-regular.eot"
+      },
+      "public/STYLE/dist/fonts/glyphicons-halflings-regular.svg": {
+        "previousModTime": 1458004706000,
+        "modified": 1458004706000,
+        "seen": true,
+        "name": "public/STYLE/dist/fonts/glyphicons-halflings-regular.svg"
+      },
+      "public/STYLE/dist/fonts/glyphicons-halflings-regular.ttf": {
+        "previousModTime": 1458004694000,
+        "modified": 1458004694000,
+        "seen": true,
+        "name": "public/STYLE/dist/fonts/glyphicons-halflings-regular.ttf"
+      },
+      "public/STYLE/dist/fonts/glyphicons-halflings-regular.woff": {
+        "previousModTime": 1458004694000,
+        "modified": 1458004694000,
+        "seen": true,
+        "name": "public/STYLE/dist/fonts/glyphicons-halflings-regular.woff"
+      },
+      "public/STYLE/dist/fonts/glyphicons-halflings-regular.woff2": {
+        "previousModTime": 1458004702000,
+        "modified": 1458004702000,
+        "seen": true,
+        "name": "public/STYLE/dist/fonts/glyphicons-halflings-regular.woff2"
+      },
+      "public/STYLE/dist/js/bootstrap.js": {
+        "previousModTime": 1458004694000,
+        "modified": 1458004694000,
+        "seen": true,
+        "name": "public/STYLE/dist/js/bootstrap.js"
+      },
+      "public/STYLE/dist/js/bootstrap.min.js": {
+        "previousModTime": 1458004694000,
+        "modified": 1458004694000,
+        "seen": true,
+        "name": "public/STYLE/dist/js/bootstrap.min.js"
+      },
+      "public/STYLE/dist/js/npm.js": {
+        "previousModTime": 1458004694000,
+        "modified": 1458004694000,
+        "seen": true,
+        "name": "public/STYLE/dist/js/npm.js"
+      },
+      "public/STYLE/font-awesome/font-awesome.css": {
+        "previousModTime": 1396003806000,
+        "modified": 1396003806000,
+        "seen": true,
+        "name": "public/STYLE/font-awesome/font-awesome.css"
+      },
+      "public/STYLE/font-awesome/FontAwesome.otf": {
+        "previousModTime": 1383649632000,
+        "modified": 1383649632000,
+        "seen": true,
+        "name": "public/STYLE/font-awesome/FontAwesome.otf"
+      },
+      "public/STYLE/font-awesome/fontawesome-webfont.eot": {
+        "previousModTime": 1383649632000,
+        "modified": 1383649632000,
+        "seen": true,
+        "name": "public/STYLE/font-awesome/fontawesome-webfont.eot"
+      },
+      "public/STYLE/font-awesome/fontawesome-webfont.svg": {
+        "previousModTime": 1383649632000,
+        "modified": 1383649632000,
+        "seen": true,
+        "name": "public/STYLE/font-awesome/fontawesome-webfont.svg"
+      },
+      "public/STYLE/font-awesome/fontawesome-webfont.ttf": {
+        "previousModTime": 1383649632000,
+        "modified": 1383649632000,
+        "seen": true,
+        "name": "public/STYLE/font-awesome/fontawesome-webfont.ttf"
+      },
+      "public/STYLE/font-awesome/fontawesome-webfont.woff": {
+        "previousModTime": 1383649632000,
+        "modified": 1383649632000,
+        "seen": true,
+        "name": "public/STYLE/font-awesome/fontawesome-webfont.woff"
+      },
+      "public/STYLE/JS/arquivosJS.js": {
+        "previousModTime": 1461097820355,
+        "modified": 1461097820355,
+        "seen": true,
+        "name": "public/STYLE/JS/arquivosJS.js"
+      },
+      "public/STYLE/JS/button.js": {
+        "previousModTime": 1459114092000,
+        "modified": 1459114092000,
+        "seen": true,
+        "name": "public/STYLE/JS/button.js"
+      },
+      "public/STYLE/JS/collapse.js": {
+        "previousModTime": 1458004694000,
+        "modified": 1458004694000,
+        "seen": true,
+        "name": "public/STYLE/JS/collapse.js"
+      },
+      "public/STYLE/JS/dropdown.js": {
+        "previousModTime": 1458004694000,
+        "modified": 1458004694000,
+        "seen": true,
+        "name": "public/STYLE/JS/dropdown.js"
+      },
+      "public/STYLE/JS/modal.js": {
+        "previousModTime": 1458004694000,
+        "modified": 1458004694000,
+        "seen": true,
+        "name": "public/STYLE/JS/modal.js"
+      },
+      "public/STYLE/JS/popover.js": {
+        "previousModTime": 1458004684000,
+        "modified": 1458004684000,
+        "seen": true,
+        "name": "public/STYLE/JS/popover.js"
+      },
+      "public/STYLE/JS/tab.js": {
+        "previousModTime": 1458004684000,
+        "modified": 1458004684000,
+        "seen": true,
+        "name": "public/STYLE/JS/tab.js"
+      },
+      "public/STYLE/JS/tooltip.js": {
+        "previousModTime": 1458004684000,
+        "modified": 1458004684000,
+        "seen": true,
+        "name": "public/STYLE/JS/tooltip.js"
+      },
+      "public/STYLE/JS/transition.js": {
+        "previousModTime": 1458004694000,
+        "modified": 1458004694000,
+        "seen": true,
+        "name": "public/STYLE/JS/transition.js"
+      },
+      "public/STYLE/JS/vendor/jquery.min.js": {
+        "previousModTime": 1458004726000,
+        "modified": 1458004726000,
+        "seen": true,
+        "name": "public/STYLE/JS/vendor/jquery.min.js"
+      },
+      "public/STYLE/JS/vendor/qunit.css": {
+        "previousModTime": 1458004726000,
+        "modified": 1458004726000,
+        "seen": true,
+        "name": "public/STYLE/JS/vendor/qunit.css"
+      },
+      "public/STYLE/JS/vendor/qunit.js": {
+        "previousModTime": 1458004726000,
+        "modified": 1458004726000,
+        "seen": true,
+        "name": "public/STYLE/JS/vendor/qunit.js"
+      },
+      "routes/smartroute.js": {
+        "previousModTime": 1461085470000,
+        "modified": 1461085470000,
+        "seen": true,
+        "name": "routes/smartroute.js"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1460045474000,
+        "modified": 1460045474000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "public/STYLE/mongo.js": {
+        "previousModTime": 1460990089976,
+        "modified": 1460990089976,
+        "seen": true,
+        "name": "public/STYLE/mongo.js"
+      },
+      "public/img/cortina_aberta.png": {
+        "previousModTime": 1460043878000,
+        "modified": 1460043878000,
+        "seen": true,
+        "name": "public/img/cortina_aberta.png"
+      },
+      "public/img/muitofrio.jpg": {
+        "previousModTime": 1461014378000,
+        "modified": 1461014378000,
+        "seen": true,
+        "name": "public/img/muitofrio.jpg"
+      },
+      "public/img/muitoquente.jpg": {
+        "previousModTime": 1461014342000,
+        "modified": 1461014342000,
+        "seen": true,
+        "name": "public/img/muitoquente.jpg"
+      },
+      "public/style/cia.css": {
+        "previousModTime": 1461638324000,
+        "modified": 1461638324000,
+        "seen": true,
+        "name": "public/style/cia.css"
+      },
+      "public/style/cia.js": {
+        "previousModTime": 1461659314000,
+        "modified": 1461659314000,
+        "seen": true,
+        "name": "public/style/cia.js"
+      },
+      "public/style/mongo.js": {
+        "previousModTime": 1460990088000,
+        "modified": 1460990088000,
+        "seen": true,
+        "name": "public/style/mongo.js"
+      },
+      "public/style/socketio.js": {
+        "previousModTime": 1460579188000,
+        "modified": 1460579188000,
+        "seen": true,
+        "name": "public/style/socketio.js"
+      },
+      "public/style/style.css": {
+        "previousModTime": 1461558688000,
+        "modified": 1461558688000,
+        "seen": true,
+        "name": "public/style/style.css"
+      },
+      "public/style/dist/css/bootstrap.css": {
+        "previousModTime": 1458004718000,
+        "modified": 1458004718000,
+        "seen": true,
+        "name": "public/style/dist/css/bootstrap.css"
+      },
+      "public/style/dist/css/bootstrap.css.map": {
+        "previousModTime": 1458004712000,
+        "modified": 1458004712000,
+        "seen": true,
+        "name": "public/style/dist/css/bootstrap.css.map"
+      },
+      "public/style/dist/css/bootstrap.min.css": {
+        "previousModTime": 1458004706000,
+        "modified": 1458004706000,
+        "seen": true,
+        "name": "public/style/dist/css/bootstrap.min.css"
+      },
+      "public/style/dist/css/bootstrap.min.css.map": {
+        "previousModTime": 1458004718000,
+        "modified": 1458004718000,
+        "seen": true,
+        "name": "public/style/dist/css/bootstrap.min.css.map"
+      },
+      "public/style/dist/css/bootstrap-theme.css": {
+        "previousModTime": 1458004718000,
+        "modified": 1458004718000,
+        "seen": true,
+        "name": "public/style/dist/css/bootstrap-theme.css"
+      },
+      "public/style/dist/css/bootstrap-theme.css.map": {
+        "previousModTime": 1458004720000,
+        "modified": 1458004720000,
+        "seen": true,
+        "name": "public/style/dist/css/bootstrap-theme.css.map"
+      },
+      "public/style/dist/css/bootstrap-theme.min.css": {
+        "previousModTime": 1458004718000,
+        "modified": 1458004718000,
+        "seen": true,
+        "name": "public/style/dist/css/bootstrap-theme.min.css"
+      },
+      "public/style/dist/css/bootstrap-theme.min.css.map": {
+        "previousModTime": 1458004718000,
+        "modified": 1458004718000,
+        "seen": true,
+        "name": "public/style/dist/css/bootstrap-theme.min.css.map"
+      },
+      "public/style/dist/css/less/alerts.less": {
+        "previousModTime": 1458004740000,
+        "modified": 1458004740000,
+        "seen": true,
+        "name": "public/style/dist/css/less/alerts.less"
+      },
+      "public/style/dist/css/less/badges.less": {
+        "previousModTime": 1458004732000,
+        "modified": 1458004732000,
+        "seen": true,
+        "name": "public/style/dist/css/less/badges.less"
+      },
+      "public/style/dist/css/less/bootstrap.less": {
+        "previousModTime": 1458004740000,
+        "modified": 1458004740000,
+        "seen": true,
+        "name": "public/style/dist/css/less/bootstrap.less"
+      },
+      "public/style/dist/css/less/breadcrumbs.less": {
+        "previousModTime": 1458004732000,
+        "modified": 1458004732000,
+        "seen": true,
+        "name": "public/style/dist/css/less/breadcrumbs.less"
+      },
+      "public/style/dist/css/less/button-groups.less": {
+        "previousModTime": 1458004740000,
+        "modified": 1458004740000,
+        "seen": true,
+        "name": "public/style/dist/css/less/button-groups.less"
+      },
+      "public/style/dist/css/less/buttons.less": {
+        "previousModTime": 1458004732000,
+        "modified": 1458004732000,
+        "seen": true,
+        "name": "public/style/dist/css/less/buttons.less"
+      },
+      "public/style/dist/css/less/carousel.less": {
+        "previousModTime": 1458004744000,
+        "modified": 1458004744000,
+        "seen": true,
+        "name": "public/style/dist/css/less/carousel.less"
+      },
+      "public/style/dist/css/less/close.less": {
+        "previousModTime": 1458004732000,
+        "modified": 1458004732000,
+        "seen": true,
+        "name": "public/style/dist/css/less/close.less"
+      },
+      "public/style/dist/css/less/code.less": {
+        "previousModTime": 1458004732000,
+        "modified": 1458004732000,
+        "seen": true,
+        "name": "public/style/dist/css/less/code.less"
+      },
+      "public/style/dist/css/less/component-animations.less": {
+        "previousModTime": 1458004740000,
+        "modified": 1458004740000,
+        "seen": true,
+        "name": "public/style/dist/css/less/component-animations.less"
+      },
+      "public/style/dist/css/less/_csscomb.json": {
+        "previousModTime": 1458004744000,
+        "modified": 1458004744000,
+        "seen": true,
+        "name": "public/style/dist/css/less/_csscomb.json"
+      },
+      "public/style/dist/css/less/_csslintrc": {
+        "previousModTime": 1458004744000,
+        "modified": 1458004744000,
+        "seen": true,
+        "name": "public/style/dist/css/less/_csslintrc"
+      },
+      "public/style/dist/css/less/dropdowns.less": {
+        "previousModTime": 1458004732000,
+        "modified": 1458004732000,
+        "seen": true,
+        "name": "public/style/dist/css/less/dropdowns.less"
+      },
+      "public/style/dist/css/less/forms.less": {
+        "previousModTime": 1458004736000,
+        "modified": 1458004736000,
+        "seen": true,
+        "name": "public/style/dist/css/less/forms.less"
+      },
+      "public/style/dist/css/less/glyphicons.less": {
+        "previousModTime": 1458004740000,
+        "modified": 1458004740000,
+        "seen": true,
+        "name": "public/style/dist/css/less/glyphicons.less"
+      },
+      "public/style/dist/css/less/grid.less": {
+        "previousModTime": 1458004726000,
+        "modified": 1458004726000,
+        "seen": true,
+        "name": "public/style/dist/css/less/grid.less"
+      },
+      "public/style/dist/css/less/input-groups.less": {
+        "previousModTime": 1458004736000,
+        "modified": 1458004736000,
+        "seen": true,
+        "name": "public/style/dist/css/less/input-groups.less"
+      },
+      "public/style/dist/css/less/jumbotron.less": {
+        "previousModTime": 1458004736000,
+        "modified": 1458004736000,
+        "seen": true,
+        "name": "public/style/dist/css/less/jumbotron.less"
+      },
+      "public/style/dist/css/less/labels.less": {
+        "previousModTime": 1458004736000,
+        "modified": 1458004736000,
+        "seen": true,
+        "name": "public/style/dist/css/less/labels.less"
+      },
+      "public/style/dist/css/less/list-group.less": {
+        "previousModTime": 1458004736000,
+        "modified": 1458004736000,
+        "seen": true,
+        "name": "public/style/dist/css/less/list-group.less"
+      },
+      "public/style/dist/css/less/media.less": {
+        "previousModTime": 1458004736000,
+        "modified": 1458004736000,
+        "seen": true,
+        "name": "public/style/dist/css/less/media.less"
+      },
+      "public/style/dist/css/less/mixins.less": {
+        "previousModTime": 1458004738000,
+        "modified": 1458004738000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins.less"
+      },
+      "public/style/dist/css/less/modals.less": {
+        "previousModTime": 1458004732000,
+        "modified": 1458004732000,
+        "seen": true,
+        "name": "public/style/dist/css/less/modals.less"
+      },
+      "public/style/dist/css/less/navbar.less": {
+        "previousModTime": 1458004726000,
+        "modified": 1458004726000,
+        "seen": true,
+        "name": "public/style/dist/css/less/navbar.less"
+      },
+      "public/style/dist/css/less/navs.less": {
+        "previousModTime": 1458004732000,
+        "modified": 1458004732000,
+        "seen": true,
+        "name": "public/style/dist/css/less/navs.less"
+      },
+      "public/style/dist/css/less/normalize.less": {
+        "previousModTime": 1458004726000,
+        "modified": 1458004726000,
+        "seen": true,
+        "name": "public/style/dist/css/less/normalize.less"
+      },
+      "public/style/dist/css/less/pager.less": {
+        "previousModTime": 1458004728000,
+        "modified": 1458004728000,
+        "seen": true,
+        "name": "public/style/dist/css/less/pager.less"
+      },
+      "public/style/dist/css/less/pagination.less": {
+        "previousModTime": 1458004740000,
+        "modified": 1458004740000,
+        "seen": true,
+        "name": "public/style/dist/css/less/pagination.less"
+      },
+      "public/style/dist/css/less/panels.less": {
+        "previousModTime": 1458004726000,
+        "modified": 1458004726000,
+        "seen": true,
+        "name": "public/style/dist/css/less/panels.less"
+      },
+      "public/style/dist/css/less/popovers.less": {
+        "previousModTime": 1458004740000,
+        "modified": 1458004740000,
+        "seen": true,
+        "name": "public/style/dist/css/less/popovers.less"
+      },
+      "public/style/dist/css/less/print.less": {
+        "previousModTime": 1458004736000,
+        "modified": 1458004736000,
+        "seen": true,
+        "name": "public/style/dist/css/less/print.less"
+      },
+      "public/style/dist/css/less/progress-bars.less": {
+        "previousModTime": 1458004736000,
+        "modified": 1458004736000,
+        "seen": true,
+        "name": "public/style/dist/css/less/progress-bars.less"
+      },
+      "public/style/dist/css/less/responsive-embed.less": {
+        "previousModTime": 1458004728000,
+        "modified": 1458004728000,
+        "seen": true,
+        "name": "public/style/dist/css/less/responsive-embed.less"
+      },
+      "public/style/dist/css/less/responsive-utilities.less": {
+        "previousModTime": 1458004732000,
+        "modified": 1458004732000,
+        "seen": true,
+        "name": "public/style/dist/css/less/responsive-utilities.less"
+      },
+      "public/style/dist/css/less/scaffolding.less": {
+        "previousModTime": 1458004744000,
+        "modified": 1458004744000,
+        "seen": true,
+        "name": "public/style/dist/css/less/scaffolding.less"
+      },
+      "public/style/dist/css/less/tables.less": {
+        "previousModTime": 1458004744000,
+        "modified": 1458004744000,
+        "seen": true,
+        "name": "public/style/dist/css/less/tables.less"
+      },
+      "public/style/dist/css/less/theme.less": {
+        "previousModTime": 1458004740000,
+        "modified": 1458004740000,
+        "seen": true,
+        "name": "public/style/dist/css/less/theme.less"
+      },
+      "public/style/dist/css/less/thumbnails.less": {
+        "previousModTime": 1458004736000,
+        "modified": 1458004736000,
+        "seen": true,
+        "name": "public/style/dist/css/less/thumbnails.less"
+      },
+      "public/style/dist/css/less/tooltip.less": {
+        "previousModTime": 1458004744000,
+        "modified": 1458004744000,
+        "seen": true,
+        "name": "public/style/dist/css/less/tooltip.less"
+      },
+      "public/style/dist/css/less/type.less": {
+        "previousModTime": 1458004726000,
+        "modified": 1458004726000,
+        "seen": true,
+        "name": "public/style/dist/css/less/type.less"
+      },
+      "public/style/dist/css/less/utilities.less": {
+        "previousModTime": 1458004740000,
+        "modified": 1458004740000,
+        "seen": true,
+        "name": "public/style/dist/css/less/utilities.less"
+      },
+      "public/style/dist/css/less/variables.less": {
+        "previousModTime": 1458004732000,
+        "modified": 1458004732000,
+        "seen": true,
+        "name": "public/style/dist/css/less/variables.less"
+      },
+      "public/style/dist/css/less/wells.less": {
+        "previousModTime": 1458004736000,
+        "modified": 1458004736000,
+        "seen": true,
+        "name": "public/style/dist/css/less/wells.less"
+      },
+      "public/style/dist/css/less/mixins/alerts.less": {
+        "previousModTime": 1458004754000,
+        "modified": 1458004754000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/alerts.less"
+      },
+      "public/style/dist/css/less/mixins/background-variant.less": {
+        "previousModTime": 1458004752000,
+        "modified": 1458004752000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/background-variant.less"
+      },
+      "public/style/dist/css/less/mixins/border-radius.less": {
+        "previousModTime": 1458004754000,
+        "modified": 1458004754000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/border-radius.less"
+      },
+      "public/style/dist/css/less/mixins/buttons.less": {
+        "previousModTime": 1458004748000,
+        "modified": 1458004748000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/buttons.less"
+      },
+      "public/style/dist/css/less/mixins/center-block.less": {
+        "previousModTime": 1458004750000,
+        "modified": 1458004750000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/center-block.less"
+      },
+      "public/style/dist/css/less/mixins/clearfix.less": {
+        "previousModTime": 1458004744000,
+        "modified": 1458004744000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/clearfix.less"
+      },
+      "public/style/dist/css/less/mixins/forms.less": {
+        "previousModTime": 1458004750000,
+        "modified": 1458004750000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/forms.less"
+      },
+      "public/style/dist/css/less/mixins/gradients.less": {
+        "previousModTime": 1458004748000,
+        "modified": 1458004748000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/gradients.less"
+      },
+      "public/style/dist/css/less/mixins/grid-framework.less": {
+        "previousModTime": 1458004744000,
+        "modified": 1458004744000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/grid-framework.less"
+      },
+      "public/style/dist/css/less/mixins/grid.less": {
+        "previousModTime": 1458004748000,
+        "modified": 1458004748000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/grid.less"
+      },
+      "public/style/dist/css/less/mixins/hide-text.less": {
+        "previousModTime": 1458004748000,
+        "modified": 1458004748000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/hide-text.less"
+      },
+      "public/style/dist/css/less/mixins/image.less": {
+        "previousModTime": 1458004748000,
+        "modified": 1458004748000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/image.less"
+      },
+      "public/style/dist/css/less/mixins/labels.less": {
+        "previousModTime": 1458004750000,
+        "modified": 1458004750000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/labels.less"
+      },
+      "public/style/dist/css/less/mixins/list-group.less": {
+        "previousModTime": 1458004750000,
+        "modified": 1458004750000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/list-group.less"
+      },
+      "public/style/dist/css/less/mixins/nav-divider.less": {
+        "previousModTime": 1458004750000,
+        "modified": 1458004750000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/nav-divider.less"
+      },
+      "public/style/dist/css/less/mixins/nav-vertical-align.less": {
+        "previousModTime": 1458004754000,
+        "modified": 1458004754000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/nav-vertical-align.less"
+      },
+      "public/style/dist/css/less/mixins/opacity.less": {
+        "previousModTime": 1458004754000,
+        "modified": 1458004754000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/opacity.less"
+      },
+      "public/style/dist/css/less/mixins/pagination.less": {
+        "previousModTime": 1458004754000,
+        "modified": 1458004754000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/pagination.less"
+      },
+      "public/style/dist/css/less/mixins/panels.less": {
+        "previousModTime": 1458004744000,
+        "modified": 1458004744000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/panels.less"
+      },
+      "public/style/dist/css/less/mixins/progress-bar.less": {
+        "previousModTime": 1458004750000,
+        "modified": 1458004750000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/progress-bar.less"
+      },
+      "public/style/dist/css/less/mixins/reset-filter.less": {
+        "previousModTime": 1458004750000,
+        "modified": 1458004750000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/reset-filter.less"
+      },
+      "public/style/dist/css/less/mixins/reset-text.less": {
+        "previousModTime": 1458004750000,
+        "modified": 1458004750000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/reset-text.less"
+      },
+      "public/style/dist/css/less/mixins/resize.less": {
+        "previousModTime": 1458004748000,
+        "modified": 1458004748000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/resize.less"
+      },
+      "public/style/dist/css/less/mixins/responsive-visibility.less": {
+        "previousModTime": 1458004744000,
+        "modified": 1458004744000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/responsive-visibility.less"
+      },
+      "public/style/dist/css/less/mixins/size.less": {
+        "previousModTime": 1458004750000,
+        "modified": 1458004750000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/size.less"
+      },
+      "public/style/dist/css/less/mixins/tab-focus.less": {
+        "previousModTime": 1458004748000,
+        "modified": 1458004748000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/tab-focus.less"
+      },
+      "public/style/dist/css/less/mixins/table-row.less": {
+        "previousModTime": 1458004750000,
+        "modified": 1458004750000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/table-row.less"
+      },
+      "public/style/dist/css/less/mixins/text-emphasis.less": {
+        "previousModTime": 1458004748000,
+        "modified": 1458004748000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/text-emphasis.less"
+      },
+      "public/style/dist/css/less/mixins/text-overflow.less": {
+        "previousModTime": 1458004748000,
+        "modified": 1458004748000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/text-overflow.less"
+      },
+      "public/style/dist/css/less/mixins/vendor-prefixes.less": {
+        "previousModTime": 1458004748000,
+        "modified": 1458004748000,
+        "seen": true,
+        "name": "public/style/dist/css/less/mixins/vendor-prefixes.less"
+      },
+      "public/style/dist/fonts/glyphicons-halflings-regular.eot": {
+        "previousModTime": 1458004694000,
+        "modified": 1458004694000,
+        "seen": true,
+        "name": "public/style/dist/fonts/glyphicons-halflings-regular.eot"
+      },
+      "public/style/dist/fonts/glyphicons-halflings-regular.svg": {
+        "previousModTime": 1458004706000,
+        "modified": 1458004706000,
+        "seen": true,
+        "name": "public/style/dist/fonts/glyphicons-halflings-regular.svg"
+      },
+      "public/style/dist/fonts/glyphicons-halflings-regular.ttf": {
+        "previousModTime": 1458004694000,
+        "modified": 1458004694000,
+        "seen": true,
+        "name": "public/style/dist/fonts/glyphicons-halflings-regular.ttf"
+      },
+      "public/style/dist/fonts/glyphicons-halflings-regular.woff": {
+        "previousModTime": 1458004694000,
+        "modified": 1458004694000,
+        "seen": true,
+        "name": "public/style/dist/fonts/glyphicons-halflings-regular.woff"
+      },
+      "public/style/dist/fonts/glyphicons-halflings-regular.woff2": {
+        "previousModTime": 1458004702000,
+        "modified": 1458004702000,
+        "seen": true,
+        "name": "public/style/dist/fonts/glyphicons-halflings-regular.woff2"
+      },
+      "public/style/dist/js/bootstrap.js": {
+        "previousModTime": 1458004694000,
+        "modified": 1458004694000,
+        "seen": true,
+        "name": "public/style/dist/js/bootstrap.js"
+      },
+      "public/style/dist/js/bootstrap.min.js": {
+        "previousModTime": 1458004694000,
+        "modified": 1458004694000,
+        "seen": true,
+        "name": "public/style/dist/js/bootstrap.min.js"
+      },
+      "public/style/dist/js/npm.js": {
+        "previousModTime": 1458004694000,
+        "modified": 1458004694000,
+        "seen": true,
+        "name": "public/style/dist/js/npm.js"
+      },
+      "public/style/JS/arquivosJS.js": {
+        "previousModTime": 1461549308000,
+        "modified": 1461549308000,
+        "seen": true,
+        "name": "public/style/JS/arquivosJS.js"
+      },
+      "public/style/JS/vendor/jquery.min.js": {
+        "previousModTime": 1458004726000,
+        "modified": 1458004726000,
+        "seen": true,
+        "name": "public/style/JS/vendor/jquery.min.js"
+      },
+      "public/style/JS/vendor/qunit.css": {
+        "previousModTime": 1458004726000,
+        "modified": 1458004726000,
+        "seen": true,
+        "name": "public/style/JS/vendor/qunit.css"
+      },
+      "public/style/JS/vendor/qunit.js": {
+        "previousModTime": 1458004726000,
+        "modified": 1458004726000,
+        "seen": true,
+        "name": "public/style/JS/vendor/qunit.js"
+      },
+      "dribbble-03-smarthome(full).png": {
+        "previousModTime": 1461604816579,
+        "modified": 1461604816579,
+        "seen": true,
+        "name": "dribbble-03-smarthome(full).png"
+      },
+      "motore.js": {
+        "previousModTime": 1461610310043,
+        "modified": 1461610310043,
+        "seen": true,
+        "name": "motore.js"
+      },
+      "public/images/dribbble-03-smarthome(full).png": {
+        "previousModTime": 1461604816000,
+        "modified": 1461604816000,
+        "seen": true,
+        "name": "public/images/dribbble-03-smarthome(full).png"
+      },
+      "public/img/config.png": {
+        "previousModTime": 1461639928000,
+        "modified": 1461639928000,
+        "seen": true,
+        "name": "public/img/config.png"
+      },
+      "public/img/logo.gif": {
+        "previousModTime": 1461079646000,
+        "modified": 1461079646000,
+        "seen": true,
+        "name": "public/img/logo.gif"
+      },
+      "motor.js": {
+        "previousModTime": 1461700738665,
+        "modified": 1461700738665,
+        "seen": true,
+        "name": "motor.js"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1461701972317
+      }
+    }
+  }
+}
